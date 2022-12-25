@@ -1,0 +1,2 @@
+error: ffmpy.FFExecutableNotFoundError: Executable ‘ffmpeg‘ not found
+则需要添加 executable参数   参数内容为zip的路径
